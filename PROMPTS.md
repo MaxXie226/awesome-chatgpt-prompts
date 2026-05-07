@@ -123289,3 +123289,16 @@ Rules
 
 </details>
 
+<details>
+<summary><strong>Dress</strong></summary>
+
+## Dress
+
+Contributed by @anonymous
+
+```md
+The dress focus on winter look with coverage while also being bold 
+```
+
+</details>
+
